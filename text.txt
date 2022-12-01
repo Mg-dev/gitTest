@@ -1,0 +1,11 @@
+1. git init - initial git in your folder
+
+2. git add . - add all of your code to the staging area
+
+3. git commit -m "comment here" - commit with commit that's give you which task do u complete in this commit
+
+4. git branch -M main - build new branch named "main"
+
+5. git remote add origin "link" - connect your source code with remote repo
+
+6. git push -u origin main - push your committed code to main branch of remote repo
